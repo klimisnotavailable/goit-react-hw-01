@@ -1,0 +1,13 @@
+.tableRow:nth-child(odd) {
+  background-color: darkgray;
+}
+
+.tableRow:nth-child(even) {
+  background-color: gray;
+}
+
+.tableColumn {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+}
